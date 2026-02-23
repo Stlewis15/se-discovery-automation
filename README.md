@@ -1,5 +1,16 @@
-# 🚀 Salesforce Lookup Tool (Python + CustomTkinter + OAuth) 
+# 🛠️ Sales Engineering Efficiency Tool: Salesforce Lookup
 ### Author: [Lewis Stargill (Stlewis15)](https://github.com/Stlewis15)
+> **SE Value Proposition:** I identified a friction point in the discovery process and built this Python tool to automate CRM data retrieval. This reduced "administrative drag" and increased the team's technical sales velocity.
+
+### 💳 The Fintech Connection
+In a Payment SE role, the ability to automate data retrieval is critical for:
+* **Merchant ID (MID) Lookups:** Speeding up the underwriting/KYC process.
+* **MCC Verification:** Automating the classification of new merchant leads.
+* **Custom Reporting:** Pulling transaction trends into a CRM for QBRs (Quarterly Business Reviews).
+
+---
+
+## 🚀 Original Technical Documentation & Setup
 
 ---
 
